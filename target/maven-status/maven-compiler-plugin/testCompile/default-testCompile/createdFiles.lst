@@ -1,0 +1,14 @@
+com\example\di\ApplicationContextTest$SecondBean.class
+com\example\di\ApplicationContextTest$BB.class
+com\example\di\ApplicationContextTest$ServiceA.class
+com\example\di\ApplicationContextTest$MissingA.class
+com\example\di\ApplicationContextTest.class
+com\example\di\ApplicationContextTest$A.class
+com\example\di\ApplicationContextTest$B.class
+com\example\di\ApplicationContextTest$NeedA.class
+com\example\di\ApplicationContextTest$FirstBean.class
+com\example\di\ApplicationContextTest$C.class
+com\example\di\ApplicationContextTest$MultiInject.class
+com\example\di\ApplicationContextTest$SimpleService.class
+com\example\di\ApplicationContextTest$AA.class
+com\example\di\ApplicationContextTest$ServiceB.class
